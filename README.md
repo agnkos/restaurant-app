@@ -2,7 +2,7 @@
 
 ### Scrimba solo project
 
-[netlify link]()
+[netlify link](agnkos-restaurant-app.netlify.app)
 
  <img src="images/screen2.jpg" width="300">
  <img src="images/screen3.jpg" width="300">
