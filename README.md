@@ -1,11 +1,11 @@
 # Restaurant App
 
-###Scrimba solo project
+### Scrimba solo project
 
 [netlify link]()
 
-![](images/screen2.jpg | width=100)
-![](images/screen3.jpg | width=100)
+ <img src="images/screen2.jpg" width="300">
+ <img src="images/screen3.jpg" width="300">
 
 #### Requirements:
 - follow the design spec [figma file](https://www.figma.com/file/Hdgwo69Dym9vVsxbuPbl0h/Mobile-Restaurant-Menu?node-id=0%3A1)
